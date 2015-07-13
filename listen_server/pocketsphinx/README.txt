@@ -1,0 +1,1 @@
+Copy model/ and test/ from the pocketsphinx project into this folder.

@@ -1,0 +1,6 @@
+pocketsphinx
+speechrecognition
+pyttsx
+pyaudio
+textblob
+google-api-python-client
