@@ -61,7 +61,7 @@ class FFPlayController(object):
 
             logger.info("Playing {}".format(url))
 
-            args = [path.join(BIN_DIR, "ffplay.exe"), "-nodisp", "-af", "volume=0.25", url]
+            args = [path.join(BIN_DIR, "ffplay.exe"), "-nodisp", "-af", "volume=0.4", url]
 
             try:
                 self.proc = subprocess.Popen(args, stdin=subprocess.PIPE, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
