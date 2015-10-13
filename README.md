@@ -1,4 +1,4 @@
-# Hey Victora
+# Hey Victoria
 
 Hey Victoria is an experimental English-understanding speech recognition assistant that connects to a TeamSpeak 3 channel. She is controlled entirely through speech.
 
